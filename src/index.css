@@ -1,0 +1,34 @@
+body {
+    padding:5px
+}
+
+header {
+    font: "Geneva", Futura, sans-serif;
+    color: #FEB06E;
+  }
+  
+  .col-lg-2 {
+    font: 15px "Geneva", Futura, sans-serif;
+    padding-top: 10px;
+    float: left;
+  }
+
+  .col-lg-8 {
+    font: 15px "Geneva", Futura, sans-serif;
+    float: left;
+  }
+
+  .col-lg-5 {
+    font: 15px "Geneva", Futura, sans-serif;
+    padding-top: 10px;
+    float: left;
+  }
+
+p {
+    margin:4px
+  }
+
+hr {
+    margin:5px
+  }
+
